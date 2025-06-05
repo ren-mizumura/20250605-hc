@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+h1 {
+    color: blue;
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
+h2, h3, h4 {
+    color: red;
+}
+
+/* Ctrl + / */
